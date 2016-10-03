@@ -14,7 +14,7 @@ source=('git://github.com/ds9-extras/kcm-about-extended'
         'kcm-about-extendedrc')
 md5sums=('SKIP'
          '2f829374307a79271e18392f5ef01155'
-         '87acbf6fcef86f1b63bced51ac436935')
+         'b5ad5f1134e9eda4d2a1081991700489')
 
 prepare() {
   mkdir -p build

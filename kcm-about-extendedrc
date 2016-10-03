@@ -1,3 +1,7 @@
 [General]
 LogoPath=/usr/share/about-distro/nurunner-logo.svg
+Website=http://nurunner.org
+Name=Nurunner
+Release=16.10
 Version=2016.10
+BuildStamp=2016.10
