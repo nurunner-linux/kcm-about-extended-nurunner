@@ -2,5 +2,5 @@
 LogoPath=/usr/share/about-distro/nurunner-logo.png
 Website=https://nurunner.org
 Name=Nurunner
-Version=17.04
-BuildStamp=2017.04
+Version=17.06
+BuildStamp=2017.06
